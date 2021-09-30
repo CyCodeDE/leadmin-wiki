@@ -22,3 +22,5 @@ A teacher called Mr. Schneider teaches a math class. In the whole school, there 
 
 ## **Class**
 A class is a series of students that gets managed by a teacher.
+
+![Internal structure](https://github.com/CyCodeDE/Leadmin-Wiki/blob/master/wiki/Leadmin-DB-Structure.drawio.svg)
