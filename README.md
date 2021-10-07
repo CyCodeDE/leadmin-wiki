@@ -1,10 +1,10 @@
 # **Leadmin**
-Leadmin is a all-inclusive Open-Source and free management software for schools.
-It features a web frontend a Windows app, a Linux app and a Mobile app.
+Leadmin is an all-inclusive Open-Source and free management software for schools.
+It features a web frontend, a Windows app, a Linux app and a Mobile app.
 
 | Disclaimer:  |
 |--------------|
-| As I go to school in Germany, I am only really familiar with the German school system. If you find an error in internationalization or with something else, please open an issue and I will try to correct it in the next release. Because I obviously can't know how every school system in the world works, my primary focus is currently on providing support for German schools. Maybe also British and American schools. Also this is just a hobby project that I mainly use for learning purposes so don't expect this to go anywhere. **Currently Leadmin is not ready to use for production**. |
+| As I go to school in Germany, I am only really familiar with the German school system. If you find an error in internationalization or with something else, please open an issue and I will try to correct it in the next release. Because I obviously can't know how every school system in the world works, my primary focus is currently on providing support for German schools. Maybe also British and American schools. Also, this is just a hobby project that I mainly use for learning purposes, so don't expect this to go anywhere. **Currently, Leadmin is not ready to use for production**. |
 
 ## **Planned features**
 - remote desktop
